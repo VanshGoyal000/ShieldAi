@@ -1,6 +1,6 @@
 <p align="center">
   <img src="assets/logo.svg" alt="ShieldAI Logo" width="200" height="200"/>
-  <h1>ShieldAI 🛡️</h1>
+  <h1 align = "center">ShieldAI 🛡️</h1>
 
 </p>
 
