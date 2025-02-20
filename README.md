@@ -14,11 +14,6 @@
   <img src="https://img.shields.io/node/v/shieldai.svg" alt="Node.js Version" />
 </p>
 
-
-[![NPM Version](https://img.shields.io/npm/v/shieldai.svg)](https://www.npmjs.com/package/shieldai)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js Version](https://img.shields.io/node/v/shieldai.svg)](https://nodejs.org)
-
 ## Features
 
 - 🔍 Real-time code security analysis
