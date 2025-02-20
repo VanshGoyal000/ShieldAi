@@ -1,6 +1,18 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="ShieldAI Logo" width="200" height="200"/>
+</p>
 # ShieldAI 🛡️
 
-AI-powered code security analysis and automated fixing tool powered by Google's Generative AI
+<p align="center">
+  AI-powered code security analysis and automated fixing tool powered by Google's Generative AI
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/npm/v/shieldai.svg" alt="NPM Version" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" />
+  <img src="https://img.shields.io/node/v/shieldai.svg" alt="Node.js Version" />
+</p>
+
 
 [![NPM Version](https://img.shields.io/npm/v/shieldai.svg)](https://www.npmjs.com/package/shieldai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
