@@ -1,7 +1,8 @@
 <p align="center">
   <img src="assets/logo.svg" alt="ShieldAI Logo" width="200" height="200"/>
+  <h1>ShieldAI 🛡️</h1>
+
 </p>
-# ShieldAI 🛡️
 
 <p align="center">
   AI-powered code security analysis and automated fixing tool powered by Google's Generative AI
